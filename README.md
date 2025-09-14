@@ -47,7 +47,7 @@ This project demonstrates **Java Swing** for GUI design, **JDBC** for database c
 ## ********* Database Setup**********
 1. Create a database in MySQL:
    ```sql
-   CREATE DATABASE bankmgmtsystem;
+   CREATE DATABASE BridgeBankDatabase;
 
 2.Import the provided SQL file:
 mysql -u root -p atmSystem < database/BridgeBankDatabase.sql
