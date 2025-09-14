@@ -76,10 +76,10 @@ git clone https://github.com/Sana11Shaikh/Bridge-Bank-ATM-Simuator.git
 ###  Login Page  
 ![Login Page](login-pic.png)  
 
-###  Sign Up Page  
+###  Mini Statement 
 ![MINIstatement](ministt-pic.png)  
 
-###  Transaction Page  
+###  Transaction-code-page 
 ![Transaction Page](tansac-code-pic.png)  
 
 
