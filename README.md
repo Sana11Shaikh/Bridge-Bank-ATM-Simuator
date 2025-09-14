@@ -71,7 +71,16 @@ git clone https://github.com/Sana11Shaikh/Bridge-Bank-ATM-Simuator.git
 
 
 ##***********Screenshots******************
-![output] ministt-pic.png ,tansac-code-pic.png ,login-pic.png
+## 📸 Screenshots  
+
+###  Login Page  
+![Login Page](login-pic.png)  
+
+###  Sign Up Page  
+![MINIstatement](ministt-pic.png)  
+
+###  Transaction Page  
+![Transaction Page](tansac-code-pic.png)  
 
 
 ##************What I Learned***********
